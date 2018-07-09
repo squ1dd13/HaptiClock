@@ -1,0 +1,9 @@
+Package: com.squ1dd13.hapticlock
+Name: HaptiClock
+Depends: mobilesubstrate, libactivator
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tweak to do … and …
+Maintainer: Squ1dd13
+Author: Squ1dd13
+Section: Tweaks
